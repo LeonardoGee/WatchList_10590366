@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">WatchList</string>
+    <string name="enter_a_movie_title">Enter a movie title</string>
+    <string name="search">Search</string>
+    <string name="saved_movies">Saved Movies</string>
+</resources>
